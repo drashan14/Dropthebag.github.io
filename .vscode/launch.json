@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch piviot",
+            "request": "launch",
+            "mainClass": "piviot",
+            "projectName": "iPortfolio_ce558f36"
+        },
+        {
+            "includePath": "C:\\MinGW\\include"
+        }
+    ]
+}
